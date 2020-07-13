@@ -1,0 +1,7 @@
+{
+  "name": "Finances",
+  "displayName": "Finances",
+  "expo": {
+    "scheme": "ckfinances"
+  }
+}
