@@ -9,9 +9,9 @@
     "test": "jest",
     "lint": "eslint ."
   },
-  "keywords": {
+  "keywords": [
     "app", "finances", "wallet", "react-native", "firebase"
-  },
+  ],
   "dependencies": {
     "@react-native-community/datetimepicker": "^2.3.0",
     "@react-native-community/masked-view": "^0.1.9",
