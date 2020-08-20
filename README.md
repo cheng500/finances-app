@@ -1,7 +1,7 @@
-### Finances App
+# Finances App
 Free android finances app created with React-Native and Firebase
 
-**[DEMO](https://website-ee18e.firebaseapp.com/lab/finances-app)**
+**[DEMO](https://nckdev.agency/lab/finances-app/en)**
 
 Create a Firebase and add `google-services.json` to `android/app`
 
